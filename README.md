@@ -16,7 +16,7 @@ _Disclaimer: это учебный проект, название структу
 - Product owner (вне ИТ подразделения)
 - Бизнес-аналитик
 - Data scientist
-- ML-engineer (техлид) 
+- ML-engineer (техлид)
 - Backend developer 
 - Front developer
 - QA
