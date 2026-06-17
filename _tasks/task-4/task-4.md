@@ -16,3 +16,4 @@
 Файл 2: https://huggingface.co/datasets/youbin2014/JailbreakDB/resolve/main/text_regular_unique.csv
 
 Подробный EDA представлен в файле EDA-1.ipynb
+(https://github.com/lavrentev-artem/2026-karpov-mfdp/blob/develop/_tasks/task-4/EDA-1.ipynb)
