@@ -11,3 +11,8 @@
 Запрещено допускать хранение внутрикорпоративных данных или данных клиентов во внешних SaaS сервисах. 
 
 # Задание 4
+Для начала работы необходимо вручную скачать датасеты и положить их в подпапку datasets/
+Файл 1: https://huggingface.co/datasets/youbin2014/JailbreakDB/resolve/main/text_jailbreak_unique.csv
+Файл 2: https://huggingface.co/datasets/youbin2014/JailbreakDB/resolve/main/text_regular_unique.csv
+
+Подробный EDA представлен в файле EDA-1.ipynb
