@@ -4,6 +4,8 @@
 # Задание 8
 
 ## Как запустить приложение
-1. Склонируйте проект
+1. Склонируйте проект: https://github.com/lavrentev-artem/2026-karpov-mfdp/tree/develop
 2. Запустите в терминале: docker compose up --build 
 3. Откройте UI в браузере: http://localhost:8501/
+
+
