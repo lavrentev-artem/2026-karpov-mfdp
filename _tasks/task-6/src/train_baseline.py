@@ -76,6 +76,6 @@ class BaseLineTrainer:
 
         print("")
         print(f"=== Результаты для выборки: {name} ===")
-        print(f"ROC AUC Score: {roc_auc_str:.4f}")
+        print(f"ROC AUC Score: {roc_auc_str}")
         print("Classification Report:")
         print(report)
